@@ -1,0 +1,12 @@
+{
+  "name": "my-tailwindcss-theme",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "git@github.com:cordx56/my-tailwindcss-theme.git",
+  "author": "Kaoru Chisen <cordx56@cordx.net>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
